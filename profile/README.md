@@ -1,6 +1,6 @@
 # eMedia
 
-We have built an  all-in-one solution for media management to help people create digital value with our AI-driven media library. A fully Integrated, unified, secure application with a built in artificial intelligence powered search engine that organizes all media files into one place.
+With our AI-driven media library All-in-one solution for media management to help people create their digital value. A fully Integrated, unified, secure application with a built in artificial intelligence powered search engine that organizes all media files into one place.
 
 eMediaLibrary is 100% Open Source forever, free from censorship, fully independent with no third party dependencies. 
 
@@ -22,6 +22,8 @@ Instructions on how to install and run the project.
 
 https://emedialibrary.com/knowledge/11/ubuntu-docker-deployments.html
 https://emedialibrary.com/knowledge/11/docker-deployment-mac.html
+
+# Usage
 
 How to build
 
@@ -48,9 +50,14 @@ Find the style guide here: entermedia-server/etc/EnterMedia.format
 
 Right click on demoall/etc/demoall Tomcat.launch | Debug As You should now be able to connect to the webapp by going to http://localhost:8080/ *(Must be launched again everytime eclipsed is closed.)
 
+# Contributing
+
+Reach out to us on Reddit https://Reddit.com/user/digital_legacy or send us a pull request or email us: tech @ eMediaLibrary.com team. 
+
+We will need a open source contributor license signed to accept your contributions. 
 
 # License
 This project is licensed under the LGPL
 
-Acknowledgements
+# Acknowledgements
 This project is sponsored by eMediaLibrary.com 
