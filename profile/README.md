@@ -45,9 +45,9 @@ Eclipse File | Import | Existing Projects into Workspace Choose each of the main
 ```
 Copy [libx264-normal.ffpreset](https://github.com/entermedia-community/entermediadb-docker/blob/master/ubuntu/conf/libx264-normal.ffpreset) into: /home/USERNAME/.ffmpeg/ *(Skip if already installed.)
 
-3.) Import the EnterMedia Code Style guide
+3.) Import the EnterMedia Code Style guide (Optional)
 
-Find the style guide here: entermedia-server/etc/EnterMedia.format
+Find the style guide here to import into Eclipe Preferences: [entermedia-server/etc/EnterMedia.format](https://github.com/entermedia-community/entermedia-server/blob/em11/etc/EnterMediaFormat.xml)
 
 4.) Run your application server
 
