@@ -29,14 +29,14 @@ https://emedialibrary.com/knowledge/11/docker-deployment-mac.html
 # Build Your Own Version
 
 1.) How to build and run locally:
-
+```
 git clone -b em11 --single-branch git://github.com/entermedia-community/entermedia-core.git 
 git clone -b em11 --single-branch git://github.com/entermedia-community/entermedia-server.git 
 git clone -b em11 --single-branch git://github.com/entermedia-community/demoall.git 
 git clone -b em11 --single-branch git://github.com/entermedia-community/app-emshare.git 
 git clone -b em11 --single-branch git://github.com/entermedia-community/extension-openedit.git 
 git clone -b master --single-branch git://github.com/entermedia-community/tomcat9.git
-
+```
 Eclipse File | Import | Existing Projects into Workspace Choose each of the main projects and import them, Do not check "Copy projects into workspace"
 
 2.) Install OS Dependencies
