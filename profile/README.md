@@ -1,10 +1,10 @@
 # eMedia
 
-With our AI-driven media library All-in-one solution for media management to help people create their digital value. A fully Integrated, unified, secure application with a built in artificial intelligence powered search engine that organizes all media files into one place.
-
 eMediaLibrary is 100% Open Source forever, free from censorship, fully independent with no third party dependencies. 
 
-All your cloud storage into one, interconnected and secure interface.
+With our AI-driven media library All-in-one solution for media file management. Includes an AI chat interface and built-in Smart Organizer for creating your digital legacy.
+
+A fully Integrated, unified, secure application with a built in artificial intelligence powered search engine that organizes all your cloud storage into one, interconnected and secure interface.
 
 More details on our web site https://emedialibrary.com
 
