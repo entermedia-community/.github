@@ -40,10 +40,10 @@ git clone -b master --single-branch git://github.com/entermedia-community/tomcat
 Eclipse File | Import | Existing Projects into Workspace Choose each of the main projects and import them, Do not check "Copy projects into workspace"
 
 2.) Install OS Dependencies
-
+```
  sudo apt-get install --no-install-recommends -y ffmpeg automake libogg0 libogg-dev libvorbis0a libvorbisenc2 x264  lame libimage-exiftool-perl libreoffice unzip git libltdl-dev librsvg2-2 libwmf-bin libxt6 libgomp1 libtiff5-dev libtiff5 libfaac-dev lame imagemagick ghostscript
-
-Install libx264-normal.ffpreset into: /home/USERNAME/.ffmpeg/ *(Skip if already installed.)
+```
+Copy [libx264-normal.ffpreset](https://github.com/entermedia-community/entermediadb-docker/blob/master/ubuntu/conf/libx264-normal.ffpreset) into: /home/USERNAME/.ffmpeg/ *(Skip if already installed.)
 
 3.) Import the EnterMedia Code Style guide
 
